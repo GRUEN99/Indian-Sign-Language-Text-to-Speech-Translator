@@ -45,7 +45,7 @@ This project is a real-time Indian Sign Language (ISL) recognition system that c
 - **Backend**: Flask (Python)
 - **Modeling**: TensorFlow, Keras, TFLite
 - **Hand Tracking**: MediaPipe
-- **Speech Output**: Android TTS & Swaram API
+- **Speech Output**: Android TTS 
 - **Tunnel**: Cloudflare Tunnel
 - **Data Storage**: CSV (hand landmarks)
 
