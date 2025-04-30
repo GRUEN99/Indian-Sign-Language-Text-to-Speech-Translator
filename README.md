@@ -35,7 +35,7 @@ This project is a real-time Indian Sign Language (ISL) recognition system that c
 3. **TFLite model predicts the letter**
 4. **Letters form words** → Displayed on screen
 5. **TTS Engine** converts text into speech
-6. Optionally, **Swaram API** provides output in regional languages
+
 
 ---
 
